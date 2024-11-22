@@ -11,7 +11,7 @@
 
 <h3 align="left">My Website:</h3>
 <p align="left">
-<a href="https://duart23.github.io/portfolio/" target="blank"></a>
+<a href="https://duart23.github.io/portfolio/" target="blank">https://duart23.github.io/portfolio/</a>
 </p>
 
 
